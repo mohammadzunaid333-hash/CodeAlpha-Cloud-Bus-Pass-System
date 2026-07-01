@@ -284,7 +284,7 @@ This project was developed as part of the **CodeAlpha Internship Program** to de
 
 # 👨‍💻 Developer
 
-**Mohammed Zunaid**
+** Pinjari Mohammed Zunaid**
 
 B.Tech – Computer Science & Engineering (Artificial Intelligence & Data Science)
 

@@ -51,6 +51,35 @@ The project aims to eliminate paperwork, improve efficiency, and provide a secur
 - Export Data to CSV
 
 ---
+# 📸 Project Screenshots
+
+## 🏠 Home Page
+![Home](screenshots/home.png)
+
+## 👤 User Registration
+![Register](screenshots/register.png)
+
+## 🔐 User Login
+![Login](screenshots/login.png)
+
+## 📊 User Dashboard
+![Dashboard](screenshots/user-dashboard.png)
+
+## 🚌 Apply Bus Pass
+![Apply Pass](screenshots/apply-pass.png)
+
+## 🎫 My Bus Pass
+![My Pass](screenshots/my-pass.png)
+
+## 👨‍💼 Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+## 📄 Applications
+![Applications](screenshots/applications.png)
+
+## 👥 Users
+![Users](screenshots/users.png)
+
 
 # 🚀 Technologies Used
 
